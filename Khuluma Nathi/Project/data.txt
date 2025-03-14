@@ -1,0 +1,34 @@
+for prediction
+
+lehono go fiša kudu i cant do anything, ke nyaka go robala fela
+
+namuntlha ri ta va siku lerinene
+
+
+Trained data set
+Ek hou van die oop ruimtes in die parke.
+Rea leboga boitekanelo bo bolokehileng bosiu.
+
+for summary
+
+Applications of Natural Language Processing
+Automate routine tasks: Chatbots powered by NLP can process a large number of routine tasks that are handled by human agents today, freeing up employees to work on more challenging and interesting tasks. For example, chatbots and Digital Assistants can recognize a wide variety of user requests, match them to the appropriate entry in a corporate database, and formulate an appropriate response to the user.
+
+Improve search: NLP can improve on keyword matching search for document and FAQ retrieval by disambiguating word senses based on context (for example, “carrier” means something different in biomedical and industrial contexts), matching synonyms (for example, retrieving documents mentioning “car” given a search for “automobile”), and taking morphological variation into account (which is important for non-English queries). Effective NLP-powered academic search systems can dramatically improve access to relevant cutting-edge research for doctors, lawyers, and other specialists.
+
+Search engine optimization: NLP is a great tool for getting your business ranked higher in online search by analyzing searches to optimize your content. Search engines use NLP to rank their results—and knowing how to effectively use these techniques makes it easier to be ranked above your competitors. This will lead to greater visibility for your business.
+
+Analyzing and organizing large document collections: NLP techniques such as document clustering and topic modeling simplify the task of understanding the diversity of content in large document collections, such as corporate reports, news articles, or scientific documents. These techniques are often used in legal discovery purposes.
+
+Social media analytics: NLP can analyze customer reviews and social media comments to make better sense of huge volumes of information. Sentiment analysis identifies positive and negative comments in a stream of social-media comments, providing a direct measure of customer sentiment in real time. This can lead to huge payoffs down the line, such as increased customer satisfaction and revenue.
+
+Market insights: With NLP working to analyze the language of your business’ customers, you’ll have a better handle on what they want, and also a better idea of how to communicate with them. Aspect-oriented sentiment analysis detects the sentiment associated with specific aspects or products in social media (for example, “the keyboard is great, but the screen is too dim”), providing directly actionable information for product design and marketing.
+
+Moderating content: If your business attracts large amounts of user or customer comments, NLP enables you to moderate what’s being said in order to maintain quality and civility by analyzing not only the words, but also the tone and intent of comments.
+
+Industries Using Natural Language Processing
+NLP simplifies and automates a wide range of business processes, especially ones that involve large amounts of unstructured text like emails, surveys, social media conversations, and more. With NLP, businesses are better able to analyze their data to help make the right decisions. Here are just a few examples of practical applications of NLP:
+
+Healthcare: As healthcare systems all over the world move to electronic medical records, they are encountering large amounts of unstructured data. NLP can be used to analyze and gain new insights into health records.
+Legal: To prepare for a case, lawyers must often spend hours examining large collections of documents and searching for material relevant to a specific case. NLP technology can automate the process of legal discovery, cutting down on both time and human error by sifting through large volumes of documents.
+
